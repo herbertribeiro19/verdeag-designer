@@ -97,7 +97,7 @@ body{
 
 /* section 2 */
 .section2{
-    background-color: #1D1D1B;
+    background-color: #495757;
     overflow: hidden;
     width: 100vw;
     height: auto;
@@ -130,7 +130,7 @@ body{
 
 .left:hover{
     transform: scale(1.1);
-    background-color: #428778;
+    background-color: #1d1d1b;
 }
 
 .right{
@@ -150,7 +150,7 @@ body{
 
 .right:hover{
     transform: scale(1.1);
-    background-color: #428778;
+    background-color: #1d1d1b;
 }
 
 .title-2{
@@ -323,7 +323,7 @@ body{
 /* ------------------------------------ */
 .section4{
     /* background-image: url(assets/soja1-1.png); */
-    background-color: #1d1d1b;
+    background-color: #495757;
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
