@@ -209,7 +209,7 @@ body{
     display: flex;
     flex-direction: column;
     width: 44vw;
-    padding: 30px;
+    padding: 34px;
     border-radius: 6px;
     background-color: #0096ff;
     flex-wrap: nowrap;
@@ -254,7 +254,7 @@ body{
 .right-produtos img{
     margin-top: 25px;
     width: 120px;
-    height: 120px;
+    height: 126px;
 }
 
 .titulo2 h1{
@@ -305,4 +305,51 @@ body{
     background-color: black;
     color: white;
 }
+
+/* ------------------------------------ */
+.section4{
+    background-image: url(assets/soja1-1.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100vw;
+    overflow: hidden;
+}
+
+.title-4{
+    padding: 60px 60px 16px 60px;
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    justify-content: left;
+    color: white;
+}
+
+.title-4 h1{
+    font-size: 24px;
+}
+
+.title-4 span{
+    color: #006e63;
+    cursor: pointer;
+}
+
+.title-4 h4{
+    margin-top: 20px;
+    font-size: 16px;
+    max-width: 60%;
+    margin-bottom: 60px;
+}
+
+.title-4 p{
+    margin-top: 20px;
+    font-size: 10px;
+
+}
+
+.title-4 p a{
+    color: #006e63;
+    cursor: pointer;
+}
+
 
