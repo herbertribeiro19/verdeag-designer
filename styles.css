@@ -31,12 +31,12 @@ body{
     padding: 100px 120px 60px 120px;
     display: flex;
     flex-direction: column;
-    width: 60vw;
+    max-width: 50vw;
 }
 
 .garantia{
-    width: 200px;
-    height: 200px;
+    width: 180px;
+    height: 180px;
     cursor: pointer;
 }
 
@@ -48,7 +48,7 @@ body{
 }
 
 .title-1 h1{
-    font-size: 40px;
+    font-size: 38px;
     color: white;
     margin: 20px;
 }
