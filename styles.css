@@ -98,7 +98,7 @@ body{
 
 /* section 2 */
 .section2{
-    background-color: #495757;
+    background-color: #1d1d1b;
     overflow: hidden;
     width: 100vw;
     height: auto;
@@ -225,7 +225,7 @@ body{
 
 .left-produtos:hover{
     transform: scale(1.1);
-    background-color: #495757;
+    background-color: #1d1d1b;
 }
 
 .left-produtos img{
@@ -251,7 +251,7 @@ body{
 
 .right-produtos:hover{
     transform: scale(1.1);
-    background-color: #495757;
+    background-color: #1d1d1b;
 }
 
 .right-produtos img{
@@ -325,7 +325,7 @@ body{
 /* ------------------------------------ */
 .section4{
     /* background-image: url(assets/soja1-1.png); */
-    background-color: #495757;
+    background-color: #1d1d1b;
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
